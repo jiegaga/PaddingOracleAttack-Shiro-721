@@ -52,7 +52,7 @@
                             <transformers>
                                 <transformer
                                         implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
-                                    <mainClass>com.longofo.Poracle</mainClass>
+                                    <mainClass>com.longofo.POracle</mainClass>
                                 </transformer>
                             </transformers>
                         </configuration>

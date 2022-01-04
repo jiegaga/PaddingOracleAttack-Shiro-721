@@ -17,7 +17,7 @@
             <configuration>
               <transformers>
                 <transformer>
-                  <mainClass>com.longofo.Poracle</mainClass>
+                  <mainClass>com.longofo.POracle</mainClass>
                 </transformer>
               </transformers>
             </configuration>
